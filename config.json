@@ -1,6 +1,12 @@
 {
   "ads_enabled": true,
-  "interstitials_enabled": true,
+  "solves_before_ads": 3,
+  "rewarded_hints": 2,
   "rewarded_enabled": true,
-  "analytics_enabled": true
+  "min_gap_seconds": 180,
+  "interstitial_placement": "after_continue",
+  "hidden_shop_items": [],
+  "share_reward_hints": 2,
+  "share_daily_limit": 3,
+  "welcome_gift_hints": 3
 }
