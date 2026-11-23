@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "solves_before_ads": 3,
   "rewarded_hints": 2,
   "rewarded_enabled": true,
