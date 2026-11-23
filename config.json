@@ -8,6 +8,5 @@
   "hidden_shop_items": [],
   "share_reward_hints": 2,
   "share_daily_limit": 3,
-  "welcome_gift_hints": 3,
-  "min_app_version": "0.2.0"
+  "welcome_gift_hints": 3
 }
